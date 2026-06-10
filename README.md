@@ -4,6 +4,10 @@
 
 University of Layyah is a responsive frontend landing page project created to highlight the university’s academic offerings, campus life, and student activities. The website is designed to provide a modern, accessible presentation for prospective students and visitors.
 
+## Website Link
+
+https://naseemtechcraft.github.io/University-of-Layyah/
+
 ## Features
 
 - Responsive navigation menu for desktop and mobile
